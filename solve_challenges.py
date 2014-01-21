@@ -41,7 +41,7 @@ challenge_3 = FactoringChallenge(
 
 challenge_4 = RSAChallenge(
     4,
-    "Challenge #4 - Crack an \"RSA/PKCS #1 v1.5\" encrypted plaintext",
+    "Challenge #4 - Crack an \"RSA/PKCS #1 v1.5\" encrypted ciphertext",
     int("\
 17976931348623159077293051907890247336179769789423\
 06572734300811577326758055056206869853794492129829\
